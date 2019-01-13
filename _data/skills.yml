@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+# Coding
+- skill: Coding
+  description: Learned to code in Python and Powershell
+  
+# Orchestration
+- skill: Orchestration
+  description: Learned to use Ansible and Terraform to orchestrate infrastructure-related provisioning and configuration activities
